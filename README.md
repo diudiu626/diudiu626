@@ -24,6 +24,6 @@ Built and launched on the App Store in ~2 weeks with a 2-person team for Revenue
 
 ---
 
-💼 [LinkedIn](https://www.linkedin.com/in/lynn-h-a8299a45/) · 📍 LA
-Building and shipping small products with AI agents · Open to AI marketing & analytics roles
-📊 Earlier work: [Marketing analytics & data viz portfolio](https://drive.google.com/drive/u/0/folders/1suA2fqlPVFfzX5nMcYyMiMxY74TXn7Lg)
+💼 [LinkedIn](https://www.linkedin.com/in/lynn-h-a8299a45/) · 📍 LA<br>
+Building and shipping small products with AI agents · Open to AI marketing & analytics roles<br>
+📊 Earlier work: [Marketing analytics & data viz portfolio](https://drive.google.com/drive/folders/1suA2fqlPVFfzX5nMcYyMiMxY74TXn7Lg)
