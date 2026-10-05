@@ -10,8 +10,8 @@ UCLA · Pepperdine MSBA (Business Analytics)
 
 #### 🐾 Shipped
 
-**[Pawmise](https://apps.apple.com/us/app/pawmise-daily-check-in/id6813266827))**: a gentle daily check-in app for people who care about someone living apart.
-One tap to check in, async voice notes, no pressure to reply.
+**[Pawmise](https://apps.apple.com/us/app/pawmise-daily-check-in/id6813266827)**: a gentle daily check-in app for people who care about someone living apart.<br>
+One tap to check in, async voice notes, no pressure to reply.<br>
 Built and launched on the App Store in ~2 weeks with a 2-person team for RevenueCat Shipaton 2026.
 
 #### 🧪 Experiments
