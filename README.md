@@ -19,7 +19,7 @@ Built and launched on the App Store in ~2 weeks with a 2-person team for Revenue
 - **[Reflekt](https://github.com/diudiu626/tarot_agent)**: reflective decision companion with long-term memory (Google ADK + Gemini)
 - **[Cyber Surveillance Cam](https://github.com/diudiu626/cyber-surveillance-cam)**: local-first browser computer vision, nothing leaves your device
 - **[Lens](https://github.com/diudiu626/lens)**: turns any article into key insights and a ready-to-post X thread (3-step GPT pipeline, OpenAI Build Week)
-- **[Dudu Growth System](https://github.com/diudiu626/dudu-growth-system))**: a cyberpunk RPG-style personal growth tracker
+- **[Dudu Growth System](https://github.com/diudiu626/dudu-growth-system)**: a cyberpunk RPG-style personal growth tracker
 - **[Gesture Fireworks](https://github.com/diudiu626/cyber-gesture-fireworks)**: control fireworks with your hands (MediaPipe + Canvas)
 
 ---
