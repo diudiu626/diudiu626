@@ -1,7 +1,7 @@
 ### Hi, I'm Lynn 👋
 
 Marketing analytics × AI builder in Los Angeles.<br>
-Ex-TikTok creator agency, now vibe-coding tools for creators and curious humans.
+Vibe-coding tools for creators and curious humans.
 
 **What I bring:** I understand audiences and data, and I ship with AI.
 UCLA · Pepperdine MSBA (Business Analytics)
@@ -24,6 +24,6 @@ Built and launched on the App Store in ~2 weeks with a 2-person team for Revenue
 
 ---
 
-💼 [LinkedIn](https://www.linkedin.com/in/lynn-h-a8299a45/) · 📍 LA<br>
-Building and shipping small products with AI agents · Open to AI marketing & analytics roles<br>
+📍 LA  
+Building and shipping small products with AI agents · Open to AI marketing & analytics roles  
 📊 Earlier work: [Marketing analytics & data viz portfolio](https://drive.google.com/drive/folders/1suA2fqlPVFfzX5nMcYyMiMxY74TXn7Lg)
